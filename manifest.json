@@ -1,0 +1,25 @@
+{
+ "name": "汉语 Pro — Học Trung · Anh mỗi ngày",
+ "short_name": "汉语 Pro",
+ "description": "Học từ vựng tiếng Trung & tiếng Anh với SRS, quiz, flashcards",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f5f6fa",
+ "theme_color": "#e63946",
+ "lang": "vi",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
